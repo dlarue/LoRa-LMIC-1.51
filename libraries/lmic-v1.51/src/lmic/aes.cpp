@@ -34,7 +34,7 @@
 #define AESMINI 1
 
 #elif defined(__MKL26Z64__) || defined(__MK20DX128__)
-#include <arduino.h>
+#include <Arduino.h>
 #define AESMINI 1
 
 #else
